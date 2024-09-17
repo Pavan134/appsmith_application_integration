@@ -4,7 +4,10 @@
     "appPositioning": {
       "type": "FIXED"
     },
-    "navigationSetting": {}
+    "navigationSetting": {
+      "logoAssetId": "66e958eea1220666db44b70d",
+      "logoConfiguration": "noLogoOrApplicationTitle"
+    }
   },
   "applicationVersion": 2,
   "collapseInvisibleWidgets": true,
@@ -21,6 +24,9 @@
     "appPositioning": {
       "type": "FIXED"
     },
-    "navigationSetting": {}
+    "navigationSetting": {
+      "logoAssetId": "66e958eea1220666db44b70d",
+      "logoConfiguration": "noLogoOrApplicationTitle"
+    }
   }
 }
